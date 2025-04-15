@@ -5,8 +5,11 @@ post_status: publish
 taxonomy:
   category:
     - javascript
+    - redux
   post_tag:
     - javascript
+    - redux
+    - state
 ---
 
 ## My post content
