@@ -2,6 +2,7 @@
 title: Say Hello to the Popover API
 menu_order: 2
 post_status: publish
+featured_image: _images/post-background.png
 taxonomy:
   category:
     - javascript

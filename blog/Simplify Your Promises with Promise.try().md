@@ -2,6 +2,7 @@
 title: Simplify Your Promises with Promise.try()
 menu_order: 3
 post_status: publish
+featured_image: _images/post-background.png
 taxonomy:
   category:
     - javascript
