@@ -11,7 +11,7 @@ taxonomy:
     - clone
 ---
 
-<div class="toc" markdown="1">
+<div class="toc" markdown="1" >
 
 ## On this Post
 * [The Need for Deep Cloning](#the-need-for-deep-cloning)
