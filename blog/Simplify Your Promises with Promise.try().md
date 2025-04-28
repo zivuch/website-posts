@@ -29,7 +29,7 @@ taxonomy:
 
 </div>
 
-<div class="main" markdown="1">
+<div class="guru-main" markdown="1">
 
 ## Simplify Your Promises with `Promise.try()`: The New Way to Handle Callbacks!
 

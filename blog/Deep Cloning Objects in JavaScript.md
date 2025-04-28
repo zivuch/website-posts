@@ -26,7 +26,7 @@ taxonomy:
 
 </div>
 
-<div class="main" markdown="1">
+<div class="guru-main" markdown="1">
 
 ## Deep Cloning Objects in JavaScript: Embrace `structuredClone`!
 

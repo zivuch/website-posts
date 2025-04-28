@@ -28,7 +28,7 @@ taxonomy:
 
 </div>
 
-<div class="main" markdown="1">
+<div class="guru-main" markdown="1">
 
 ## Say Hello to the Popover API: Your New Best Friend for Interactive Elements!
 
